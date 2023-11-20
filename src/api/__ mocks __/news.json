@@ -1,0 +1,467 @@
+{
+  "data": {
+    "title": "Top Stories",
+    "items": [
+      {
+        "title": "Premature babies arrive in Egypt from Gaza's al-Shifa hospital",
+        "link": "news/2023-11-20/premature-babies-arrive-in-egypt-from-gazas-al-shifa-hospital",
+        "summary": "Twenty-eight of the babies who were evacuated from al-Shifa hospital have arrived in Egypt through the Rafah crossing, Egypt's state-run media has confirmed.",
+        "image": {
+          "description": null,
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/6Xpg65INytovkntkv652Hb/a83089d8670826f4531ad58b9e2a2c54/gaza_hospital.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        "bulletLinks": [
+          {
+            "link": "news/2023-11-17/gazan-mother-reveals-grief-after-israeli-strike-leaves-baby-without-legs",
+            "label": "Gazan mother reveals grief after Israeli strike leaves baby without legs",
+            "externalUrl": false
+          },
+          {
+            "link": "news/2023-11-13/gaza-hospitals-protected-under-rules-of-war-why-are-they-being-targeted",
+            "label": "Gaza hospitals protected under rules of war - why are they being targeted?",
+            "externalUrl": false
+          }
+        ],
+        "author": null,
+        "video": {
+          "id": 6341505045112,
+          "type": "Brightcove",
+          "poster": {
+            "description": null,
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/6Xpg65INytovkntkv652Hb/a83089d8670826f4531ad58b9e2a2c54/gaza_hospital.jpg",
+            "width": 1600,
+            "height": 900
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T19:32:09.972Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "Father's 'nightmare' for kidnapped daughter",
+        "link": "news/utv/2023-11-20/fathers-nightmare-for-kidnapped-daughter",
+        "summary": "Thomas Hand initially thought his daughter Emily, who had been attending a sleepover at a friend’s house, had been killed on October 7.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/4YHhTMSwMMaJ2yEa3gVfU8/576e1b92b2acb8d03b67b883b6534890/thomas_hand.JPG",
+          "width": 1185,
+          "height": 785
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": {
+          "id": 6341497137112,
+          "type": "Brightcove",
+          "poster": {
+            "description": "Emily Hand was taken hostage during the Hamas assault on Israel.",
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/4YHhTMSwMMaJ2yEa3gVfU8/576e1b92b2acb8d03b67b883b6534890/thomas_hand.JPG",
+            "width": 1185,
+            "height": 785
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T19:01:37.011Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "Sunak 'thought it was OK to just let people die', Covid inquiry hears",
+        "link": "news/2023-11-20/sunak-did-not-consult-scientists-on-eat-out-scheme-despite-obvious-risks",
+        "summary": "Rishi Sunak, who was referred to as 'Dr Death' during the pandemic over his Eat Out to Help Out policy, wanted to keep the economy open rather than lockdown.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/2tJMdyuMcJyL7XsITuHT4F/9515b94b07a3d69c21e5f5cfbce65a71/PA-54902767.jpeg",
+          "width": 4000,
+          "height": 2250
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": null,
+        "externalUrl": false,
+        "displayDate": "2023-11-20T19:39:04.848Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": null
+      },
+      {
+        "title": "'Bamboozled': Boris Johnson was 'confused' by science, Covid inquiry hears",
+        "link": "news/2023-11-19/sir-patrick-vallance-to-give-evidence-to-the-uk-covid-19-inquiry",
+        "summary": "Sir Patrick Vallance, the former chief scientific adviser, has been giving evidence to the UK Covid-19 Inquiry.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/1uZT1oi7aiH9yGEOBR1EFP/e0db0647768e7133b23b7e4ad7ee9ab7/PA-63984067.jpeg",
+          "width": 7458,
+          "height": 4195
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": {
+          "id": 6341499126112,
+          "type": "Brightcove",
+          "poster": {
+            "description": "Sir Patrick Vallance was Boris Johnson's chief scientific adviser during the coronavirus pandemic.",
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/1uZT1oi7aiH9yGEOBR1EFP/e0db0647768e7133b23b7e4ad7ee9ab7/PA-63984067.jpeg",
+            "width": 7458,
+            "height": 4195
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T19:03:45.317Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "Woman whose parents died abroad calls for tour operators to take responsibility",
+        "link": "news/2023-11-20/woman-whose-parents-died-abroad-calls-for-tour-operators-to-take-responsibility",
+        "summary": "Kelly Ormeod is calling for tour operators to take more responsibility for safety in hotels abroad after her parents died in Egypt.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/2aHQNbJMyP19WypJJe0CPH/0759ea4a890800137c22ef460f4ce105/KELLY_AND_PARENTS_2011.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": {
+          "id": 6341496992112,
+          "type": "Brightcove",
+          "poster": {
+            "description": null,
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/2aHQNbJMyP19WypJJe0CPH/0759ea4a890800137c22ef460f4ce105/KELLY_AND_PARENTS_2011.jpg",
+            "width": 1600,
+            "height": 900
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T20:41:11.958Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "How Ashley Dale's voice recordings helped convict her killers",
+        "link": "news/granada/2023-11-20/how-ashley-dales-voice-recordings-helped-convict-her-killers",
+        "summary": "The jury in the Liverpool Crown Court trial heard Ashley Dale’s own voice describing events in the weeks leading up to the shooting.",
+        "image": {
+          "description": null,
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/XBgidUCDUOVmTJmtqEXbE/ac1516c06fd606507487edc421ea2db9/ASHLEY_DALE_BKGND_STILL1.jpg",
+          "width": 1920,
+          "height": 1080
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": null,
+        "externalUrl": false,
+        "displayDate": "2023-11-20T17:22:04.318Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": null
+      },
+      {
+        "title": "Royal Navy submarine carrying crew and nuclear weapons suffered system failure",
+        "link": "news/2023-11-20/royal-navy-submarine-carrying-crew-and-nuclear-weapons-suffered-system-failure",
+        "summary": "With up to 140 crew members and an unknown number of weapons, the consequences could have been dire.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/2eJ729CHT7RRt1kfuoGfPu/63f1f09291936642cb7be3511c6374d3/Submarine_2011.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        "bulletLinks": [],
+        "author": {
+          "name": "Carl Dinnen",
+          "role": "Political Correspondent",
+          "biography": "\n",
+          "twitterHandle": "carldinnen",
+          "image": {
+            "description": null,
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/Author_carl-dinnen/ce2fc8f5aed60cb8da2312fb3b423b3d/Carl_Dinnen_2017.jpg",
+            "width": 846,
+            "height": 846
+          },
+          "link": "news/meet-the-team/carl-dinnen",
+          "visible": true
+        },
+        "video": {
+          "id": 6341499424112,
+          "type": "Brightcove",
+          "poster": {
+            "description": "A Royal Navy nuclear-armed submarine, similar to the one photographed, suffered a worrying equipment failure while on a dive (stock photo).",
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/2eJ729CHT7RRt1kfuoGfPu/63f1f09291936642cb7be3511c6374d3/Submarine_2011.jpg",
+            "width": 1600,
+            "height": 900
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T19:19:03.76Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "Shakira settles Spanish tax fraud case with suspended sentence and £6m fine",
+        "link": "news/2023-11-20/shakira-to-face-court-in-barcelona-in-first-day-of-spanish-tax-fraud-case",
+        "summary": "Spanish prosecutors had alleged that the Colombian singer failed to pay more than 14.5 million euro (£13m) between 2012 and 2014.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/6FW48e0uSPxbgdJdpEdFXq/a5995c9708662d1275cfe084bbb62bef/AP23324355783408.jpg",
+          "width": 1347,
+          "height": 758
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": null,
+        "externalUrl": false,
+        "displayDate": "2023-11-20T13:58:40.08Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": null
+      },
+      {
+        "title": "PM to uprate benefits by 6.7% and keep pension triple lock, ITV News understands",
+        "link": "news/2023-11-20/pm-likely-to-uprate-benefits-and-keep-pension-triple-lock-itv-news-understands",
+        "summary": "Rishi Sunak and Chancellor Jeremy Hunt have unexpected economic headroom after a fall in the level of inflation.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/7fvpjLfbkWBKKpggDdGFXL/0dd20d3ff0a16cb2d9df07d0bef16dec/PA-74591135.jpeg",
+          "width": 3424,
+          "height": 1926
+        },
+        "bulletLinks": [],
+        "author": {
+          "name": "Anushka Asthana",
+          "role": "Deputy Political Editor",
+          "biography": "Anushka is ITV News Deputy Political Editor and also works alongside Political Editor Robert Peston on ITV's flagship political programme Peston. Anushka was previously at the Guardian, where she was joint Political Editor and then as editor at large launched and presented the award winning daily podcast, Today in Focus. Before that she worked for Sky News, The Times, The Observer and The Washington Post.\n",
+          "twitterHandle": "AnushkaAsthana",
+          "image": {
+            "description": null,
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/4qAYMMRNhZOO6kfOKuBLWk/3649800eb7898cb03bac987f630f1298/thumbnail_Image.jpg",
+            "width": 422,
+            "height": 422
+          },
+          "link": "news/meet-the-team/anushka-asthana",
+          "visible": true
+        },
+        "video": null,
+        "externalUrl": false,
+        "displayDate": "2023-11-20T17:28:34.343Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": null
+      },
+      {
+        "title": "All change for family Christmas at Sandringham - but still no Harry and Meghan",
+        "link": "news/2023-11-20/all-change-for-family-christmas-at-sandringham-but-still-no-harry-and-meghan",
+        "summary": "Queen Camilla's family will be around the Christmas dinner table this year, but the Duke and Duchess of Sussex are still not invited.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/63Uo7uswpQppdoGtGADfmz/ac88626ac48b2b6408d547e02db0b023/PA-70372920.jpg",
+          "width": 4070,
+          "height": 2289
+        },
+        "bulletLinks": [],
+        "author": {
+          "name": "Chris Ship",
+          "role": "Royal Editor ",
+          "biography": "Chris reports on the British Royal Family across TV and digital for ITV News. He is the host of The Royal Rota, the ITV News podcast about the Royal Family.\n",
+          "twitterHandle": "chrisshipitv",
+          "image": {
+            "description": null,
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/Author_chris-ship/287656f25e2261023a231a6bb1afcdc6/ITN_2017_Chris_Ship_0427__1_.jpg",
+            "width": 2521,
+            "height": 2521
+          },
+          "link": "news/meet-the-team/chris-ship",
+          "visible": true
+        },
+        "video": null,
+        "externalUrl": false,
+        "displayDate": "2023-11-20T11:52:03.861Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": null
+      },
+      {
+        "title": "Nations must drastically cut emissions or planet could warm by 3C, UN warns",
+        "link": "news/2023-11-20/nations-must-drastically-cut-emissions-or-planet-could-warm-by-3c-un-warns",
+        "summary": "The UN warned none of the G20 countries are reducing emissions at a pace consistent with their net-zero targets.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/YIOJyVN7jQTftlVDXpTZT/de114bf5f9f2f527142821e12432eb33/131023_Climate_Change_PA.jpg",
+          "width": 1600,
+          "height": 900
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": {
+          "id": 6341497972112,
+          "type": "Brightcove",
+          "poster": {
+            "description": null,
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/YIOJyVN7jQTftlVDXpTZT/de114bf5f9f2f527142821e12432eb33/131023_Climate_Change_PA.jpg",
+            "width": 1600,
+            "height": 900
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T19:07:59.751Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "Over 200 mafia members given 2,200 years in jail in Italian trial",
+        "link": "news/2023-11-20/over-200-mafia-members-given-2200-years-in-jail-in-italian-trial",
+        "summary": "The sentencing marks the end of a three-year landmark trial in the southern Calabria region where the 'Ndrangheta mafia group had quietly amassed power.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/1mr8GVyybnobSVx6dhq7Yh/136679eb3dd9c07e75c3c1ce58fdb5a5/AP23324445743272.jpg",
+          "width": 5974,
+          "height": 3360
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": null,
+        "externalUrl": false,
+        "displayDate": "2023-11-20T14:15:15.787Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": null
+      },
+      {
+        "title": "Yorkshire farm sparks wellness trend with cow cuddling sessions",
+        "link": "news/2023-11-20/yorkshire-farm-sparks-wellness-trend-with-cow-cuddling-sessions",
+        "summary": "Visitors are travelling from across the country to enjoy what they say are the calming benefits of snuggling up to retired cows.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/5mesI1Zr4oFHvnz6s4RUEE/246c71d81d4f7ba326fab53bc50bb413/Capture.PNG",
+          "width": 1757,
+          "height": 988
+        },
+        "bulletLinks": [],
+        "author": {
+          "name": "Rachel Townsend",
+          "role": "North of England Correspondent",
+          "biography": "Rachel Townsend is North of England Correspondent for ITV News covering a range of stories and issues across the patch.",
+          "twitterHandle": "@RachTownsendITV",
+          "image": {
+            "description": "",
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/eEGbNFgNiKfRSUGwvQF5H/081041aac52cd31999801d3b68a85418/Rachel_Townsend.JPG",
+            "width": 444,
+            "height": 296
+          },
+          "link": "news/meet-the-team/rachel-townsend",
+          "visible": true
+        },
+        "video": {
+          "id": 6341498874112,
+          "type": "Brightcove",
+          "poster": {
+            "description": null,
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/5mesI1Zr4oFHvnz6s4RUEE/246c71d81d4f7ba326fab53bc50bb413/Capture.PNG",
+            "width": 1757,
+            "height": 988
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T22:32:51.279Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "Argentina elects far-right populist Javier Milei as new president",
+        "link": "news/2023-11-20/argentina-elects-far-right-populist-javier-milei-as-new-president",
+        "summary": "The self-described anarchist was elected following a campaign that saw him revving a chainsaw to symbolically cut the state down to size.",
+        "image": {
+          "description": "",
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/bjZLp89htHxd0gjhbfab9/d19e0c122bda8b8aee423cb2dd1a7e06/AP23271815461806.jpg",
+          "width": 6928,
+          "height": 3897
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": {
+          "id": 6341486034112,
+          "type": "Brightcove",
+          "poster": {
+            "description": "Javier Milei brandishes a chainsaw during a rally in Argentina.",
+            "url": "https://images.ctfassets.net/pjshm78m9jt4/bjZLp89htHxd0gjhbfab9/d19e0c122bda8b8aee423cb2dd1a7e06/AP23271815461806.jpg",
+            "width": 6928,
+            "height": 3897
+          },
+          "guidance": "",
+          "isRegionalised": null,
+          "playerId": "B1J9ApOVZ",
+          "accountId": 2821697655001,
+          "policyKey": "BCpkADawqM2R-VmMl3ofhChG1cw4Zk5f_TS_XHyFUHGU41vfe1RkSLTmQ7spfm8o66Q9Pu4PKglYRYpZ9qZ7XnyGKchOXH99fp3E8-EHGzVytr6DpTtuEGceafqNKPdAhgLWK5hhwoAzPhiy"
+        },
+        "externalUrl": false,
+        "displayDate": "2023-11-20T14:05:12.296Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": "video"
+      },
+      {
+        "title": "Nigel Farage to skip some I’m A Celebrity bushtucker trials",
+        "link": "news/2023-11-20/nigel-farage-to-skip-some-im-a-celebrity-bushtucker-trials",
+        "summary": "Farage has said that 'quite serious physical injuries' will rule him out of taking part in any labour-intensive I’m A Celebrity… Get Me Out Of Here! trials.",
+        "image": {
+          "description": null,
+          "url": "https://images.ctfassets.net/pjshm78m9jt4/headerImage-7b33ba05-c3f5-44df-a089-8c045bb09547/07a5bbb47b431873360b5fc9039c74bb/headerImage-7b33ba05-c3f5-44df-a089-8c045bb09547",
+          "width": 4040,
+          "height": 2272
+        },
+        "bulletLinks": [],
+        "author": null,
+        "video": null,
+        "externalUrl": false,
+        "displayDate": "2023-11-20T12:40:11.002Z",
+        "label": null,
+        "tileType": null,
+        "mediaIcon": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+.tile-grid {
+  margin-top: 0;
+  width: 100%;
+  margin-bottom: 10px;
+
+  &__heading {
+    font-size: 20px;
+    margin-top: 0;
+    width: 100%;
+    text-align: left;
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    // ul.no-disc styles
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+  }
+}

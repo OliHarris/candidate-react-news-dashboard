@@ -1,0 +1,65 @@
+// rejig order as it appears in DOM
+.tile {
+  position: relative;
+  margin-bottom: 20px;
+  // consider having responsive widths instead of hard-coded width values
+  //   width: 400px;
+  width: 33.33333%;
+
+  &__wrapper {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+  }
+
+  &__image-container {
+    overflow: hidden;
+    position: relative;
+  }
+
+  // addition to format image without distortion
+  &__figure {
+    display: block;
+    height: 225px;
+    margin: 0;
+  }
+
+  // was referenced hence addition to stylesheet
+  &__image {
+    width: 400px;
+  }
+
+  &__heading-container {
+    margin: 0;
+  }
+
+  &__heading-link {
+    position: static;
+    z-index: 2;
+
+    // unrequired?
+    // &::before {
+    //     bottom: 0;
+    //     content: '';
+    //     left: 0;
+    //     position: absolute;
+    //     right: 0;
+    //     top: 0;
+    //     z-index: 1;
+    // }
+  }
+
+  &__heading {
+    font-size: 20px;
+    margin: 10px 0 0 0;
+  }
+
+  &__date {
+    margin: 9px 0 0;
+    display: block;
+  }
+
+  &__summary {
+    margin-top: 5px;
+    font-size: 15px;
+  }
+}
