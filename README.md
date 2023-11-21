@@ -16,7 +16,7 @@ More can be built out here as per the original specs of the test listed below:
 
 2. Add tests: Commit unit tests to the pull request to ensure the code works the way you expect.
 
-### Test had emphasis on...
+### Interview had emphasis on...
 
 - Understanding of SASS and BEM approach
 - React hooks and modern React design patterns 
